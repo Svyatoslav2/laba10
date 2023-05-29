@@ -7,7 +7,7 @@
 - Поиск самых сильных формант
 
 ## Спектрограмма записи звука "А" по наростающей
-![](results/spectrogram_A.png)
+![](results/spectogram/spectrogram_A.png)
 
 ### Анализ
 **Основной тон:** 
@@ -15,12 +15,12 @@
 
 
 ## Спектрограмма записи звука "И" по наростающей
-![](results/spectrogram_I.png)
+![](results/spectogram/spectrogram_I.png)
 
 ### Анализ
 **Основной тон:**
 
 
 ## Спектрограмма записи лая
-![](results/spectrogram_gav.png)
+![](results/spectogram/spectrogram_gav.png)
 **Основной тон:** 
